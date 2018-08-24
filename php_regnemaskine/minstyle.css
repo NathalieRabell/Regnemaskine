@@ -1,0 +1,33 @@
+*{
+	color: #744253;
+	background-color: #FAF1F2;
+}
+
+.submit{
+	background-color: #B49286;
+	color: #201217;
+}
+
+input{
+	border: 1px #744253 solid;
+	background-color: #FAF1F2;
+}
+
+select{
+	border: 1px #744253 solid;
+	background-color: #FAF1F2;
+}
+
+td{
+	background-color: #F3D9DC;
+}
+
+strong{
+	background-color: #F3D9DC;
+}
+
+table{
+	border: 1px #744253 solid;
+	padding: 2%;
+	background-color: #F3D9DC;
+}
